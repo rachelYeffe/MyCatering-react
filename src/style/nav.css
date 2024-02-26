@@ -1,0 +1,40 @@
+header {
+    background-color: #ffffff; /* Set your desired background color */
+    padding: 20px;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin-left: 350px;
+
+  }
+  
+  nav ul li {
+    display: inline-block;
+    
+  }
+  nav ul .navstyle {
+    margin-right: 10px;
+    
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: orange; /* Set your desired text color */
+      font-size: larger;
+      font-weight: 400;
+  }
+  .signIn {
+    margin-left: 10px;
+  }
+  .signUp {
+    margin-left: 250px;
+
+  }
+   .signIn button a{
+    color: #ffffff;
+    
+}
+.signUp button a{
+  color: rgb(255, 255, 255);
+}

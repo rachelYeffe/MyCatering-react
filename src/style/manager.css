@@ -1,0 +1,23 @@
+.manager-container {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 600px;
+}
+.textt{
+    /* margin-top: 5%; */
+
+    margin-bottom: 20px;
+    height: 20px;
+    border: 1px solid orange;
+
+    /* border-width: 1000px; */
+}
+.buttons{
+    width: 100px;
+}
